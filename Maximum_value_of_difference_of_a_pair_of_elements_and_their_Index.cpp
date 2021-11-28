@@ -6,7 +6,7 @@ class Solution {
         int ai[n],aj[n];
         int i,j;
         for(i=0;i<n;i++){
-            ai[i]=a[i]+i;
+            ai[i]=a[i]+i; 
             aj[i]=a[i]-i;
         }
         int max1=INT_MIN,min1=INT_MAX,max2=INT_MIN,min2=INT_MAX;
