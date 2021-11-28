@@ -21,7 +21,7 @@ class Solution{
                 // if(target==sum)
                 // return target;
                 if(sum>target)
-                p2--;
+                p2--; 
                 else p1++;
             }
         }
