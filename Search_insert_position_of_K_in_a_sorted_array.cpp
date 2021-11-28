@@ -22,5 +22,5 @@ class Solution{
         return mid;
         return mid+1;
         // code here
-    }
+    } 
 };
