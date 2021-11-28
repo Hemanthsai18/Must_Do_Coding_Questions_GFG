@@ -10,7 +10,7 @@ public:
                 i++;
                 
             }
-            else{
+            else{ 
                 ans=b[j];
                 j++;
             }
