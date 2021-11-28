@@ -12,6 +12,6 @@ class Solution {
         if(reach>=n-1)
         return 1;
         return 0;
-        // code here
+        // code here 
     }
 };
