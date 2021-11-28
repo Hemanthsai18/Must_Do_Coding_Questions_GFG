@@ -18,7 +18,7 @@ class Solution {
                 c=1;
             }
             else return a;
-        }
+        } 
         if(c==1)
             a.insert(a.begin(),1);
             return a;
